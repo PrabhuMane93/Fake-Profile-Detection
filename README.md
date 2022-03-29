@@ -1,2 +1,7 @@
-# Fake-Profile-Identification
-An attempt to detect fake accounts on the social media platforms is determined by various Machine Learning algorithms. The classification performances of the  classifier Machine Learning algorithm is used for the detection of fake accounts. In this random forest algorithm An attempt is made to classify our data into fake and real profiles.
+# Fake Profile Detection using Random Forest
+
+-In this random forest algorithm, an attempt had been made to classify our data into fake and real 
+profiles by enforcing the classifier.
+-Dataset containing user information was extracted from a public github repository. 
+-Extracted relevant features like user id, friends count, favorites count, language code friends count, followers count
+-Classifier yielded impressive accuracies both on test and training sets.
